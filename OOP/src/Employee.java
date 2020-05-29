@@ -2,8 +2,8 @@ package OOP.src;
 
 public class Employee {
     private int salary;
-    public int overtime;
-    public int payPerHour;
+    private int overtime;
+    private int payPerHour;
 
     public static int employeeCount;
 
